@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Introduction](Swift Apprentice/README.md)
 
 
 
